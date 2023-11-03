@@ -1,0 +1,7 @@
+classes= 3
+train  = /home/zyr/darknet/archive/train.txt
+valid  = /home/zyr/darknet/archive/train.txt
+names  = /home/zyr/darknet/archive/lights.names
+backup = /home/zyr/darknet/archive/weights
+
+
